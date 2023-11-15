@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeystewart&label=Profile%20views&color=0e75b6&style=flat" alt="joeystewart" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif">
-- 🔭 I’m currently working on _Travel-Tracker_
+- 🔭 I’m currently working on Travel-Tracker
 
 - 🌱 I’m currently learning **React**
 
