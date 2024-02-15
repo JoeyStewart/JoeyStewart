@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif">
 - 🔭 I’m currently working on Travel-Tracker
 
-- 🌱 I’m currently learning **React** and **Python**
+- 🌱 I’m currently learning **Tailwind** and **Flutter**
 
 - 📫 How to reach me **josephstewart1752@gmail.com**
 
